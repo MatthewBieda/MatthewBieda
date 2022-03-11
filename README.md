@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @MatthewBieda
-- 👀 I’m interested in NMT 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m MatthewBieda
 
-<!---
-MatthewBieda/MatthewBieda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I developed jp-translate.cloud, a cutting-edge open source Japanese ⇋ English machine translation system.   
+
+I have built several full-stack websites using Django, check out my website and blog for more information!
